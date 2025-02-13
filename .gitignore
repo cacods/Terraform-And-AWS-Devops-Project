@@ -1,1 +1,12 @@
+# Vim
+*.swp
+
+# Vim IDE
 tags
+
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+
+
